@@ -117,7 +117,6 @@
 			"options": {
 				"buildTarget": "starterkit:build",
 				"port": 4202,
-				"ssl": true,
 				"sslCert": "ssl/server.crt",
 				"sslKey": "ssl/server.key"
 			}
